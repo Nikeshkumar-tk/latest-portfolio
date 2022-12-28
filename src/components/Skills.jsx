@@ -30,11 +30,11 @@ const Skills = () => {
         },
         {
             SkillName: "Express js",
-            imgUrl: "src/assets/express.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/express.png?alt=media&token=fddf48b2-5594-4c63-a5f1-90aa9ea75861"
         },
         {
             SkillName: "Mongo Db",
-            imgUrl: "src/assets/mongo.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/mongo.png?alt=media&token=4b03f22e-2725-4a3e-ade5-2faaefefc5c5"
         },
     ]
 

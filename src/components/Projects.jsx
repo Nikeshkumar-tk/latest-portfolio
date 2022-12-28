@@ -4,35 +4,27 @@ const Projects = () => {
     const projectData = [
         {
             projectName: "Hulu Clone",
-            imgUrl: "src/assets/huluv1.png",
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/huluv1.png?alt=media&token=a4790311-3281-47ab-ad7f-4432fd9a5ea1",
         },
         {
             projectName: "Netflix Clone",
-            imgUrl: "src/assets/netflix.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/netflix.png?alt=media&token=858c0205-7856-40ee-a033-bf34f70c3547"
         },
         {
             projectName: "Full Stack Blog App",
-            imgUrl: "src/assets/blog.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/blog.png?alt=media&token=4a69c3ab-eab2-438e-9fd5-0b3baa8e3529"
         },
         {
             projectName: "E-waste management System",
-            imgUrl: "src/assets/ewaste.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/chat.png?alt=media&token=22cc82d2-d7fe-4b4f-b934-38a645b196e0"
         },
         {
             projectName: "Chat App",
-            imgUrl: "src/assets/chat.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/chat.png?alt=media&token=22cc82d2-d7fe-4b4f-b934-38a645b196e0"
         },
         {
             projectName: "Live New App",
-            imgUrl: "src/assets/news.png"
-        },
-        {
-            projectName: "Express js",
-            imgUrl: "src/assets/express.png"
-        },
-        {
-            projectName: "Mongo Db",
-            imgUrl: "src/assets/mongo.png"
+            imgUrl: "https://firebasestorage.googleapis.com/v0/b/miniprojectprofile.appspot.com/o/news.png?alt=media&token=992e17ea-4e4b-4611-8450-192b153fc045"
         },
     ]
 
