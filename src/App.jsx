@@ -38,7 +38,7 @@ console.log(window.innerWidth)
       <Hero />
      </section>
      {/* Education */}
-     <section className='snap-center snap-mandatory'>
+     <section className='snap-center snap-mandatory' id='education'>
       <Education />
      </section>
      {/* Skills */}
