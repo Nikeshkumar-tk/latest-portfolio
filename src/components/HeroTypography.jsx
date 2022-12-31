@@ -3,6 +3,7 @@ const HeroTypography = () => {
     const [text, helper] = useTypewriter({
         words: [
             "Hi,i am Nikesh Kumar T K",
+            "I am a Full stack web developer",
             "I can create websites for you"
         ],
         loop: true,
