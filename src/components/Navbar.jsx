@@ -77,10 +77,6 @@ const Navbar = () => {
             <a href="#projects">Projects</a>
             <p className="w-40 h-[2px] rounded-sm bg-gray-600 mt-3"></p>
           </li>
-          <li className="text-white" onClick={() => handleNavbarOptionSelect()}>
-            <a href="#aboutme">About mrtyrtyrytyrtyre</a>
-            <p className="w-40 h-[2px] rounded-sm bg-gray-600 mt-3"></p>
-          </li>
           </ul>
       </div>
     </>
